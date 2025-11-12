@@ -4,7 +4,7 @@ This repository contains a set of example tasks organized into separate director
 
 The project is structured as follows:
 
-- Directories named `1`, `2`, ..., `6` contain individual examples with files such as:
+- Directories named `1`, `2`, ..., `9` contain individual examples with files such as:
   - `main_X.go` — executable code for each task.
   - Other `.go` files within the directory — tests related to that specific task.
 
