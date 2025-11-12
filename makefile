@@ -1,4 +1,4 @@
-TASKS := 1 2 3 4 5
+TASKS := 1 2 3 4 5 6
 
 MAIN_FILES = $(addprefix $(1)/main_,$(1).go)
 
