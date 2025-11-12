@@ -21,7 +21,7 @@ func main() {
 	slice1 := strings.Split(input1, " ")
 	slice2 := strings.Split(input2, " ")
 
-	fmt.Println("First slice: ", slice1)
+	fmt.Println("First slice:  ", slice1)
 	fmt.Println("Second slice: ", slice2)
 
 	res := FindDiff(slice1, slice2)
