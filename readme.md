@@ -20,7 +20,7 @@ To run a particular task, use this command:
 make task<X>
 ```
 
-Where `<X>` represents the task number (from 1 to 6).
+Where `<X>` represents the task number.
 
 For example, to run the first task, type:
 
